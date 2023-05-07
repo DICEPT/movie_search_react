@@ -3,7 +3,7 @@
 
 
 ## 과제 결과물
-### • Git 제출 2차 과제 결과물 : [사이트 바로가기]([#](https://645790753b8435593f8940fb--glowing-chimera-12d042.netlify.app/))
+### • Git 제출 2차 과제 결과물 : [사이트 바로가기](https://645790753b8435593f8940fb--glowing-chimera-12d042.netlify.app/)
 
 </br>
 
